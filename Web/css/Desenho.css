@@ -1,0 +1,26 @@
+img {
+    width: 500px;
+    margin-left: 30%;
+    
+}
+p {
+    width: 500px;
+    margin-left:30%;
+    color: aliceblue;
+    
+}
+
+h2 {
+    margin-left: 30%;
+    color: aliceblue;
+}     
+
+body {
+    background-color: black;
+}
+h1{
+    color: cyan;
+}
+head {
+    background-color: aliceblue;
+}

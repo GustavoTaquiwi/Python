@@ -1,0 +1,24 @@
+div{
+    height: 70; /*altura*/
+    width: 100px; /*Comprimento*/
+    margin: 100px; /*Espaçamento externo Superior*/ 
+    background-color: crimson;
+    margin-left: 250px;
+    margin: 20px 40px 90px 30px;/*Superior, Direito , baixo e Esquerdo*/
+    margin-bottom: 50px;  
+}
+
+/*Espaçamento Interno*/
+div{
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 35px;
+    padding-bottom: 30px;
+
+body{
+    background-color: black;
+}
+
+span{
+    color: aliceblue;
+}

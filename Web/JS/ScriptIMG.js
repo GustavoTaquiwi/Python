@@ -1,0 +1,3 @@
+const IMG = document.querySelectorAll("img");
+
+IMG.item(4).insertAdjacentHTML("afterend", "<p>Também conhecida por ser responsável pelas primeiras civilizações, os Maori, a Nova Zelândia tem como foco o turismo sustentável e suas paisagens são de tirar o fôlego.É na região central da ilha sul da Nova Zelândia, no coração do Mackenzie Country que fica o Lago Tekapo, onde é possível contemplar a beleza do lago, passear de barco e até mesmo nadar.</p>");
